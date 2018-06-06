@@ -21,6 +21,12 @@ K single differential opamp
 F http://cds.linear.com/docs/en/datasheet/6362fa.pdf
 $ENDCMP
 #
+$CMP SJ1-3533NG
+D 3-pin audio jack receptable (stereo/TRS connector)
+K audio jack receptable stereo headphones phones TRS connector
+F ~
+$ENDCMP
+#
 $CMP SN74LV1T34
 D inverting buffer with Schmitt trigger.
 F 74xx/74ahc_ahct1g14.pdf
