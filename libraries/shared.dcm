@@ -32,4 +32,24 @@ D inverting buffer with Schmitt trigger.
 F 74xx/74ahc_ahct1g14.pdf
 $ENDCMP
 #
+$CMP VCCIOA
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VCCIOB
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VCCIOC
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VCCIOD
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
 #End Doc Library
